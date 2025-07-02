@@ -19,4 +19,9 @@ public class OrgTest {
 		System.out.println("cxecute modifyOrgTest");
 		
 	}
+	@Test
+	public void deleteOrgTest() {
+		System.out.println("cxecute deleteOrgTest");
+		
+	}
 }
